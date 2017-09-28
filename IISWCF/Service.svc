@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFYubik.YubikService" CodeBehind="Service.svc.cs" %>
